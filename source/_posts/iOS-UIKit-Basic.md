@@ -1,9 +1,8 @@
-title: iOS UIKit Basic
-date: 2016-01-16 16:05:34
-tags:iOS,UIKit
-category:iOS
+title: iOS-UIKit-Basic
+date: 2016-01-16 17:37:56
+category: "iOS"
+tags: "UIKit"
 ---
-# iOS UIKit Basic
 
 ## Points and Pixels
 ![Alt text](../images/ios-uikit-basic/Resolutions.jpg)
