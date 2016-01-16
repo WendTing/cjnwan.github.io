@@ -7,9 +7,9 @@ title: 小跳蚤
 subtitle:
 description:
 author: Jimmy-Chen
-language: zh-hk
+language: zh-Hans
 timezone:
-
+avatar: http://tp1.sinaimg.cn/3214279032/180/5712802774/1
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
@@ -68,6 +68,6 @@ theme: next
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:github
-  repository:https://github.com/cjnwan/cjnwan.github.io.git
+  type:git
+  repository:git@github.com:cjnwan/cjnwan.github.io.git
   branch:master
